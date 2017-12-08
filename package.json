@@ -1,0 +1,17 @@
+{
+  "name": "express-weather-app",
+  "version": "1.0.0",
+  "description": "A weather App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scot Pfleghaar",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "forecastio": "^1.0.2",
+    "zippity-do-dah": "0.0.3"
+  }
+}
